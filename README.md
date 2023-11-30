@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martín Daniel Aguirre</h1>
-<h3 align="center">Front-end Developer from Argentina 💻🌲</h3>
+<h3 align="center">Full Stack Developer from Argentina 💻🌲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinxcvi&label=Profile%20views&color=0e75b6&style=flat" alt="martinxcvi" /> </p>
 
-- 🌱 I’m currently improving & learning **Full Stack Development**
+- 📚 I'm currently studying for examinations and finishing some courses.
 
 - 📫 How to reach me: **mdzg96@gmail.com**
 
