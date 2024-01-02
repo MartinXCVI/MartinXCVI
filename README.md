@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinxcvi&label=Profile%20views&color=0e75b6&style=flat" alt="martinxcvi" /> </p>
 
-- 🔭🚀 Currently exploring possibilities, new fields of study, building projects, and setting the main pillars for 2024
-
-- 📫✉️ How to reach me: **mdzg96@gmail.com**
+- 🔭 Currently exploring possibilities, new fields of study, building projects, and setting the main pillars for 2024
+- ✉️ How to reach me: **mdzg96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
