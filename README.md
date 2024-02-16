@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinxcvi&label=Profile%20views&color=0e75b6&style=flat" alt="martinxcvi" /> </p>
 
 - 🔭 Exploring possibilities, new fields of study, and setting the main pillars for 2024
-- ⚛️ Currently building and working on React, PHP, MySQL and Wordpress projects
 - ✉️ How to reach me: **mdzg96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
