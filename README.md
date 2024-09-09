@@ -5,7 +5,7 @@
 
 - 🔭 Exploring possibilities, new fields of study, and setting the main pillars for 2025.
 - 💻 Currently open to freelancing opportunities.
-- ✉️ How to reach me: **mdzg96@gmail.com**
+- ✉️ How to reach me: **martin96rd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
