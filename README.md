@@ -4,12 +4,16 @@ Hi 👋 My name is Martín Daniel Aguirre
 Full Stack Web Developer 💻🌲
 -----------------------------
 
-I'm a developer from Argentina primarily interested in crafting secure and scalable web applications. I specialize in backend development with Node.js & TypeScript. I also enjoy working with React, Astro and other frontend technologies. Constantly exploring new architectures, security best practices, and automation to build robust systems. I'm currently open to freelance projects and collaborations.
+I’m a developer from Argentina focused on building **secure, scalable web applications**.
 
-* 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [martinxcvi.vercel.app](https://martinxcvi.vercel.app/)
-* ✉️  You can contact me at [martin96rd@gmail.com](mailto:martin96rd@gmail.com)
-* 🤝  I'm open to collaborating on freelance projects
+My specialization is **backend development** with **Node.js and TypeScript**, and I also work with frontend technologies such as **React, Next.js, and Astro**.
+
+I currently work as a freelance web developer and I'm deepening my knowledge in **web security** fundamentals and **Python**.
+
+* 🌍  Based in Argentina
+* 💼  Portfolio: [martinxcvi.vercel.app](https://martinxcvi.vercel.app/)
+* ✉️  Contact: [martin96rd@gmail.com](mailto:martin96rd@gmail.com)
+* 🤝  Open to freelance projects and collaborations
 
 ## Skills
 
@@ -17,7 +21,10 @@ I'm a developer from Argentina primarily interested in crafting secure and scala
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+       width="36" height="36" alt="Java" />
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -26,15 +33,27 @@ I'm a developer from Argentina primarily interested in crafting secure and scala
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
 ## Socials
 
 <p align="left">
 <a href="https://discord.com/users/martin_xcvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/MartinXCVI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/MartinXCVI" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+       width="32" height="32"
+       style="background-color:white; border-radius:50%;" />
+</a>
 <a href="https://www.linkedin.com/in/martinxcvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://dev.to/martinxcvi" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg"
+  width="32" height="32"
+  style="background-color:white; border-radius:50%;"
+/>
+</a>
+<a href="https://hashnode.com/@martinxcvi" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg"
+       width="32" height="32" />
+</a>
 </p>
